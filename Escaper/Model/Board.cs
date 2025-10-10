@@ -16,13 +16,19 @@ namespace Escaper.Model
         public Board(int size)
         {
             Size = size;
-            Player = new Player { Pos = new Position(size / 2, 0) }; // player a felső sor közepén
+
+            // A játékos a bal felső sarokban
+            Player = new Player(new Position(size / 2, 0));
+
+            // Két ellenfél a bal és jobb alsó sarokban
             Enemies = new List<Enemy>
             {
-                new Enemy { Pos = new Position(0, size - 1) },      // bal alsó sarok
-                new Enemy { Pos = new Position(size - 1, size - 1) } // jobb alsó sarok
+                new Enemy(new Position(0, size - 1)),
+                new Enemy(new Position(size - 1, size - 1))
             };
+
             Mines = new List<Mine>();
         }
+
     }
 }

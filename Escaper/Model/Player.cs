@@ -6,9 +6,14 @@ using System.Threading.Tasks;
 
 namespace Escaper.Model
 {
-    public class Enemy
+    public class Player
     {
         public Position Pos { get; set; }
         public bool IsActive { get; set; } = true;
+
+        public Player(Position pos)
+        {
+            Pos = pos;
+        }
     }
 }

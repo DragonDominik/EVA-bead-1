@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscaperView", "EscaperView.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escaper", "..\Escaper\Escaper.csproj", "{1C206E68-6617-48C6-AB4B-B997715EFD7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscaperTest", "..\EscaperTest\EscaperTest.csproj", "{2D321CAB-B2E3-477F-823B-406461C870E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1C206E68-6617-48C6-AB4B-B997715EFD7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C206E68-6617-48C6-AB4B-B997715EFD7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C206E68-6617-48C6-AB4B-B997715EFD7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D321CAB-B2E3-477F-823B-406461C870E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D321CAB-B2E3-477F-823B-406461C870E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D321CAB-B2E3-477F-823B-406461C870E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D321CAB-B2E3-477F-823B-406461C870E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

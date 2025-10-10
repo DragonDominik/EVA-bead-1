@@ -9,5 +9,10 @@ namespace Escaper.Model
     public class Mine
     {
         public Position Pos { get; set; }
+
+        public Mine(Position pos)
+        {
+            Pos = pos;
+        }
     }
 }
