@@ -4,13 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Escaper.Model
+namespace Escaper.Persistence
 {
-    public class Mine
+    public class Enemy
     {
         public Position Pos { get; set; }
 
-        public Mine(Position pos)
+        public bool IsActive { get; set; } = true;
+
+        public Enemy(Position pos)
         {
             Pos = pos;
         }

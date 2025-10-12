@@ -2,6 +2,7 @@
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Escaper.Model;
+using Escaper.Persistence;
 
 namespace EscaperTest
 {

@@ -1,4 +1,4 @@
-﻿using Escaper.Model;
+﻿using Escaper.Persistence;
 using System;
 using System.Collections.Generic;
 using System.Linq;

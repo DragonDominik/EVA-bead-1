@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Escaper.Model
+namespace Escaper.Persistence
 {
     public struct Position
     {

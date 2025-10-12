@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\bead1\\eva_bead_1\\escaper\\model\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\model\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\bead1\\eva_bead_1\\escaper\\persistence\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\persistence\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\bead1\\eva_bead_1\\escaper\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\bead1\\eva_bead_1\\escaper\\persistence\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\persistence\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\bead1\\eva_bead_1\\escaper\\persistence\\mine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\persistence\\mine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\bead1\\eva_bead_1\\escaper\\persistence\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\persistence\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\bead1\\eva_bead_1\\escaper\\persistence\\ipersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\persistence\\ipersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\bead1\\eva_bead_1\\escaper\\persistence\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\persistence\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\bead1\\eva_bead_1\\escaper\\persistence\\persistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\persistence\\persistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\bead1\\eva_bead_1\\escaper\\model\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\model\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\bead1\\eva_bead_1\\escaper\\model\\igamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\model\\igamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23657213-F960-4308-84B9-A242EA76D466}|EscaperView\\EscaperView.csproj|c:\\users\\drago\\documents\\bead1\\eva_bead_1\\escaperview\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,34 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BC1917F7-02D9-8563-1B11-B5606E8593DC}|EscaperTest\\EscaperTest.csproj|c:\\users\\drago\\documents\\bead1\\eva_bead_1\\escapertest\\escapermodeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC1917F7-02D9-8563-1B11-B5606E8593DC}|EscaperTest\\EscaperTest.csproj|solutionrelative:escapertest\\escapermodeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\bead1\\eva_bead_1\\escaper\\persistence\\persistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\persistence\\persistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\bead1\\eva_bead_1\\escaper\\persistence\\ipersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\persistence\\ipersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\bead1\\eva_bead_1\\escaper\\model\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\model\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\bead1\\eva_bead_1\\escaper\\model\\mine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\model\\mine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\bead1\\eva_bead_1\\escaper\\model\\igamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\model\\igamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\bead1\\eva_bead_1\\escaper\\model\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\model\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\bead1\\eva_bead_1\\escaper\\model\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\model\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\drago\\Documents\\BEAD1\\EscaperTest\\MSTestSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -103,37 +103,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MSTestSettings.cs",
-              "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\EscaperTest\\MSTestSettings.cs",
-              "RelativeDocumentMoniker": "EscaperTest\\MSTestSettings.cs",
-              "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\EscaperTest\\MSTestSettings.cs",
-              "RelativeToolTip": "EscaperTest\\MSTestSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T14:40:40.798Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EscaperModelTest.cs",
-              "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\EscaperTest\\EscaperModelTest.cs",
-              "RelativeDocumentMoniker": "EscaperTest\\EscaperModelTest.cs",
-              "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\EscaperTest\\EscaperModelTest.cs",
-              "RelativeToolTip": "EscaperTest\\EscaperModelTest.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAIwEsAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T14:40:07.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "IPersistence.cs",
               "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Persistence\\IPersistence.cs",
               "RelativeDocumentMoniker": "Escaper\\Persistence\\IPersistence.cs",
@@ -141,50 +119,23 @@
               "RelativeToolTip": "Escaper\\Persistence\\IPersistence.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T14:38:49.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T14:38:49.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Persistence.cs",
               "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Persistence\\Persistence.cs",
               "RelativeDocumentMoniker": "Escaper\\Persistence\\Persistence.cs",
               "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Persistence\\Persistence.cs",
               "RelativeToolTip": "Escaper\\Persistence\\Persistence.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T17:56:12.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T17:56:12.225Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "mainForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\escaperView\\View\\mainForm.Designer.cs",
-              "RelativeDocumentMoniker": "escaperView\\View\\mainForm.Designer.cs",
-              "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\escaperView\\View\\mainForm.Designer.cs",
-              "RelativeToolTip": "escaperView\\View\\mainForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T16:48:33.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "mainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\escaperView\\View\\mainForm.cs",
-              "RelativeDocumentMoniker": "escaperView\\View\\mainForm.cs",
-              "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\escaperView\\View\\mainForm.cs [Design]",
-              "RelativeToolTip": "escaperView\\View\\mainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T18:06:04.798Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "mainForm.cs",
               "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\escaperView\\View\\mainForm.cs",
               "RelativeDocumentMoniker": "escaperView\\View\\mainForm.cs",
@@ -199,92 +150,133 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Model\\Player.cs",
-              "RelativeDocumentMoniker": "Escaper\\Model\\Player.cs",
-              "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Model\\Player.cs",
-              "RelativeToolTip": "Escaper\\Model\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Persistence\\Player.cs",
+              "RelativeDocumentMoniker": "Escaper\\Persistence\\Player.cs",
+              "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Persistence\\Player.cs",
+              "RelativeToolTip": "Escaper\\Persistence\\Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T17:49:08.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T17:49:08.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Board.cs",
-              "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Model\\Board.cs",
-              "RelativeDocumentMoniker": "Escaper\\Model\\Board.cs",
-              "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Model\\Board.cs",
-              "RelativeToolTip": "Escaper\\Model\\Board.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Persistence\\Board.cs",
+              "RelativeDocumentMoniker": "Escaper\\Persistence\\Board.cs",
+              "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Persistence\\Board.cs",
+              "RelativeToolTip": "Escaper\\Persistence\\Board.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T14:36:22.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T14:36:22.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Mine.cs",
-              "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Model\\Mine.cs",
-              "RelativeDocumentMoniker": "Escaper\\Model\\Mine.cs",
-              "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Model\\Mine.cs",
-              "RelativeToolTip": "Escaper\\Model\\Mine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T17:51:52.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "IGameController.cs",
               "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Model\\IGameController.cs",
               "RelativeDocumentMoniker": "Escaper\\Model\\IGameController.cs",
               "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Model\\IGameController.cs",
               "RelativeToolTip": "Escaper\\Model\\IGameController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T08:37:41.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T08:37:41.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "GameController.cs",
               "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Model\\GameController.cs",
               "RelativeDocumentMoniker": "Escaper\\Model\\GameController.cs",
               "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Model\\GameController.cs",
               "RelativeToolTip": "Escaper\\Model\\GameController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowEEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T08:37:49.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T08:37:49.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Model\\Enemy.cs",
-              "RelativeDocumentMoniker": "Escaper\\Model\\Enemy.cs",
-              "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Model\\Enemy.cs",
-              "RelativeToolTip": "Escaper\\Model\\Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Persistence\\Enemy.cs",
+              "RelativeDocumentMoniker": "Escaper\\Persistence\\Enemy.cs",
+              "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Persistence\\Enemy.cs",
+              "RelativeToolTip": "Escaper\\Persistence\\Enemy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T17:21:43.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T17:21:43.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "Mine.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Persistence\\Mine.cs",
+              "RelativeDocumentMoniker": "Escaper\\Persistence\\Mine.cs",
+              "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Persistence\\Mine.cs",
+              "RelativeToolTip": "Escaper\\Persistence\\Mine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T17:51:52.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Position.cs",
-              "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Model\\Position.cs",
-              "RelativeDocumentMoniker": "Escaper\\Model\\Position.cs",
-              "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Model\\Position.cs",
-              "RelativeToolTip": "Escaper\\Model\\Position.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Persistence\\Position.cs",
+              "RelativeDocumentMoniker": "Escaper\\Persistence\\Position.cs",
+              "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\Escaper\\Persistence\\Position.cs",
+              "RelativeToolTip": "Escaper\\Persistence\\Position.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T17:52:27.747Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "mainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\escaperView\\View\\mainForm.cs",
+              "RelativeDocumentMoniker": "escaperView\\View\\mainForm.cs",
+              "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\escaperView\\View\\mainForm.cs [Design]",
+              "RelativeToolTip": "escaperView\\View\\mainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T18:06:04.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "mainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\escaperView\\View\\mainForm.Designer.cs",
+              "RelativeDocumentMoniker": "escaperView\\View\\mainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\escaperView\\View\\mainForm.Designer.cs",
+              "RelativeToolTip": "escaperView\\View\\mainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T16:48:33.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EscaperModelTest.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\EscaperTest\\EscaperModelTest.cs",
+              "RelativeDocumentMoniker": "EscaperTest\\EscaperModelTest.cs",
+              "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\EscaperTest\\EscaperModelTest.cs",
+              "RelativeToolTip": "EscaperTest\\EscaperModelTest.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAIwEsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:40:07.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\EscaperTest\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "EscaperTest\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\EscaperTest\\MSTestSettings.cs",
+              "RelativeToolTip": "EscaperTest\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:40:40.798Z"
             },
             {
               "$type": "Document",
@@ -416,8 +408,7 @@
               "ToolTip": "C:\\Users\\drago\\Documents\\BEAD1\\EVA_bead_1\\escaperView\\View\\mainForm.resx",
               "RelativeToolTip": "escaperView\\View\\mainForm.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-10-08T16:49:10.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T16:49:10.631Z"
             }
           ]
         }

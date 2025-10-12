@@ -1,4 +1,4 @@
-﻿using Escaper.Model;
+﻿using Escaper.Persistence;
 
 namespace Escaper.Model
 {
