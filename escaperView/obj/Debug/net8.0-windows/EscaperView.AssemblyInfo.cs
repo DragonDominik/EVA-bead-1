@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EscaperView")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51d1b0b4cb2fd2f57d7e35f7b935c36ec43e6a92")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+778f06d8e1187681f6c5ec383853aeb32aca98ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("EscaperView")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EscaperView")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -30,6 +30,7 @@ namespace escaperView
             labelStatus.Text = "Start a game";
         }
 
+
         private void NewGameBtn_Click(object sender, EventArgs e)
         {
             // méret kiválasztása
@@ -48,9 +49,16 @@ namespace escaperView
             _logic.BoardUpdated += () =>
             {
                 if (InvokeRequired)
-                    Invoke(() => gameBoard.Invalidate());
+                    Invoke(() =>
+                    {
+                        labelTime.Text = $"Time: {(_logic as GameController)?.ElapsedTime ?? 0}";
+                        gameBoard.Invalidate();
+                    });
                 else
+                {
+                    labelTime.Text = $"Time: {(_logic as GameController)?.ElapsedTime ?? 0}";
                     gameBoard.Invalidate();
+                }
             };
             _logic.GameEnded += () =>
             {
@@ -124,9 +132,16 @@ namespace escaperView
                     _logic.BoardUpdated += () =>
                     {
                         if (InvokeRequired)
-                            Invoke(() => gameBoard.Invalidate());
+                            Invoke(() =>
+                            {
+                                labelTime.Text = $"Time: {(_logic as GameController)?.ElapsedTime ?? 0}";
+                                gameBoard.Invalidate();
+                            });
                         else
+                        {
+                            labelTime.Text = $"Time: {(_logic as GameController)?.ElapsedTime ?? 0}";
                             gameBoard.Invalidate();
+                        }
                     };
                     _logic.GameEnded += () =>
                     {

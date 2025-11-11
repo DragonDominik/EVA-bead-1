@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\drago\\Documents\\Windows Gits\\EVA-bead-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\windows gits\\eva-bead-1\\escaper\\model\\igamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\model\\igamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23657213-F960-4308-84B9-A242EA76D466}|EscaperView\\EscaperView.csproj|c:\\users\\drago\\documents\\windows gits\\eva-bead-1\\escaperview\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23657213-F960-4308-84B9-A242EA76D466}|EscaperView\\EscaperView.csproj|solutionrelative:escaperview\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23657213-F960-4308-84B9-A242EA76D466}|EscaperView\\EscaperView.csproj|C:\\Users\\drago\\Documents\\Windows Gits\\EVA-bead-1\\escaperview\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23657213-F960-4308-84B9-A242EA76D466}|EscaperView\\EscaperView.csproj|solutionrelative:escaperview\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\windows gits\\eva-bead-1\\escaper\\model\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\model\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23657213-F960-4308-84B9-A242EA76D466}|EscaperView\\EscaperView.csproj|c:\\users\\drago\\documents\\windows gits\\eva-bead-1\\escaperview\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23657213-F960-4308-84B9-A242EA76D466}|EscaperView\\EscaperView.csproj|solutionrelative:escaperview\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\windows gits\\eva-bead-1\\escaper\\model\\igamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\model\\igamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\windows gits\\eva-bead-1\\escaper\\persistence\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\persistence\\ipersistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23657213-F960-4308-84B9-A242EA76D466}|EscaperView\\EscaperView.csproj|C:\\Users\\drago\\Documents\\Windows Gits\\EVA-bead-1\\escaperview\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{23657213-F960-4308-84B9-A242EA76D466}|EscaperView\\EscaperView.csproj|solutionrelative:escaperview\\view\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|c:\\users\\drago\\documents\\windows gits\\eva-bead-1\\escaper\\persistence\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7591982C-329D-49BC-4076-25E89DB6BB44}|Escaper\\Escaper.csproj|solutionrelative:escaper\\persistence\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "EscaperModelTest.cs",
               "DocumentMoniker": "C:\\Users\\drago\\Documents\\Windows Gits\\EVA-bead-1\\EscaperTest\\EscaperModelTest.cs",
               "RelativeDocumentMoniker": "EscaperTest\\EscaperModelTest.cs",
@@ -62,12 +62,11 @@
               "RelativeToolTip": "EscaperTest\\EscaperModelTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T12:33:23.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T12:33:23.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MSTestSettings.cs",
               "DocumentMoniker": "C:\\Users\\drago\\Documents\\Windows Gits\\EVA-bead-1\\EscaperTest\\MSTestSettings.cs",
               "RelativeDocumentMoniker": "EscaperTest\\MSTestSettings.cs",
@@ -75,12 +74,11 @@
               "RelativeToolTip": "EscaperTest\\MSTestSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T12:33:22.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T12:33:22.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "mainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\drago\\Documents\\Windows Gits\\EVA-bead-1\\escaperView\\View\\mainForm.cs",
               "RelativeDocumentMoniker": "escaperView\\View\\mainForm.cs",
@@ -92,46 +90,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "mainForm.cs",
               "DocumentMoniker": "C:\\Users\\drago\\Documents\\Windows Gits\\EVA-bead-1\\escaperView\\View\\mainForm.cs",
               "RelativeDocumentMoniker": "escaperView\\View\\mainForm.cs",
               "ToolTip": "C:\\Users\\drago\\Documents\\Windows Gits\\EVA-bead-1\\escaperView\\View\\mainForm.cs",
               "RelativeToolTip": "escaperView\\View\\mainForm.cs",
-              "ViewState": "AgIAAOYAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAowJAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T17:13:07.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameController.cs",
               "DocumentMoniker": "C:\\Users\\drago\\Documents\\Windows Gits\\EVA-bead-1\\Escaper\\Model\\GameController.cs",
               "RelativeDocumentMoniker": "Escaper\\Model\\GameController.cs",
               "ToolTip": "C:\\Users\\drago\\Documents\\Windows Gits\\EVA-bead-1\\Escaper\\Model\\GameController.cs",
               "RelativeToolTip": "Escaper\\Model\\GameController.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T17:12:40.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "IGameController.cs",
               "DocumentMoniker": "C:\\Users\\drago\\Documents\\Windows Gits\\EVA-bead-1\\Escaper\\Model\\IGameController.cs",
               "RelativeDocumentMoniker": "Escaper\\Model\\IGameController.cs",
               "ToolTip": "C:\\Users\\drago\\Documents\\Windows Gits\\EVA-bead-1\\Escaper\\Model\\IGameController.cs",
               "RelativeToolTip": "Escaper\\Model\\IGameController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-10T17:12:38.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Board.cs",
               "DocumentMoniker": "C:\\Users\\drago\\Documents\\Windows Gits\\EVA-bead-1\\Escaper\\Persistence\\Board.cs",
               "RelativeDocumentMoniker": "Escaper\\Persistence\\Board.cs",
@@ -139,12 +137,11 @@
               "RelativeToolTip": "Escaper\\Persistence\\Board.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAswA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T17:12:35.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T17:12:35.244Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IPersistence.cs",
               "DocumentMoniker": "C:\\Users\\drago\\Documents\\Windows Gits\\EVA-bead-1\\Escaper\\Persistence\\IPersistence.cs",
               "RelativeDocumentMoniker": "Escaper\\Persistence\\IPersistence.cs",
@@ -152,8 +149,7 @@
               "RelativeToolTip": "Escaper\\Persistence\\IPersistence.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T17:12:32.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T17:12:32.949Z"
             },
             {
               "$type": "Document",
