@@ -1,47 +1,49 @@
-﻿using Escaper.Persistence;
-
-public class Board
+﻿namespace Escaper.Persistence
 {
-    public int Size { get; set; }
-    public Player Player { get; set; }
-    public List<Enemy> Enemies { get; set; }
-    public List<Mine> Mines { get; set; }
-
-    // Paraméter nélküli konstruktor
-    public Board()
+    public class Board
     {
-        Mines = new List<Mine>();
-        Enemies = new List<Enemy>();
-    }
+        public int Size { get; set; }
+        public Player Player { get; set; }
+        public List<Enemy> Enemies { get; set; }
+        public List<Mine> Mines { get; set; }
 
-    public Board(int size, int mineCount = 10)
-    {
-        Size = size;
-        Player = new Player(new Position(size / 2, 0));
-        Enemies = new List<Enemy>
+        public Board()
         {
-            new Enemy(new Position(0, size - 1)),
-            new Enemy(new Position(size - 1, size - 1))
-        };
-        Mines = new List<Mine>();
-        GenerateMines(mineCount);
-    }
+            Size = 11;
+            Player = new(new Position(Size / 2, 0));
+            Enemies = [];
+            Mines = [];
+        }
 
-    private void GenerateMines(int count)
-    {
-        Random rnd = new Random();
-        for (int i = 0; i < count; i++)
+        public Board(int size, int mineCount = 10)
         {
-            Position pos;
-            do
+            Size = size;
+            Player = new(new Position(size / 2, 0));
+            Enemies = new()
             {
-                pos = new Position(rnd.Next(Size), rnd.Next(Size));
-            }
-            while (Mines.Any(m => m.Pos.Equals(pos))
-                   || Player.Pos.Equals(pos)
-                   || Enemies.Any(e => e.Pos.Equals(pos)));
+                new(new Position(0, size - 1)),
+                new(new Position(size - 1, size - 1))
+            };
+            Mines = [];
+            GenerateMines(mineCount);
+        }
 
-            Mines.Add(new Mine(pos));
+        private void GenerateMines(int count)
+        {
+            Random rnd = new();
+            for (int i = 0; i < count; i++)
+            {
+                Position pos;
+                do
+                {
+                    pos = new(rnd.Next(Size), rnd.Next(Size));
+                }
+                while (Mines.Any(m => m.Pos.Equals(pos))
+                       || Player.Pos.Equals(pos)
+                       || Enemies.Any(e => e.Pos.Equals(pos)));
+
+                Mines.Add(new(pos));
+            }
         }
     }
 }

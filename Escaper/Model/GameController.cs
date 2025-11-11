@@ -5,11 +5,13 @@ using System.Timers;
 
 namespace Escaper.Model
 {
-    public class GameController : IGameController
+    public class GameController : IGameController, IDisposable
     {
         private readonly Board _board;
-        private System.Timers.Timer _timer;
+        private readonly System.Timers.Timer _timer;
         private int _elapsedTime;
+
+        private bool _disposed = false;
 
         public bool IsGameOver { get; private set; } = false;
         public bool PlayerWon { get; private set; } = false;
@@ -45,11 +47,7 @@ namespace Escaper.Model
             MoveEnemies();
             _elapsedTime++;
             BoardUpdated?.Invoke();
-
-            if (IsGameOver)
-                GameEnded?.Invoke();
         }
-
         public void MovePlayer(int dx, int dy)
         {
             if (IsGameOver) return;
@@ -60,9 +58,6 @@ namespace Escaper.Model
             _board.Player.Pos = newPos;
             CheckCollisions();
             BoardUpdated?.Invoke();
-
-            if (IsGameOver)
-                GameEnded?.Invoke();
         }
 
         public void MoveEnemies()
@@ -91,15 +86,43 @@ namespace Escaper.Model
             {
                 IsGameOver = true;
                 PlayerWon = false;
+                EndGameCleanup();
+                return;
             }
 
             if (_board.Enemies.All(e => !e.IsActive))
             {
                 IsGameOver = true;
                 PlayerWon = true;
+                EndGameCleanup();
+                return;
             }
         }
 
         public Board GetBoard() => _board;
+
+        private void EndGameCleanup()
+        {
+            _timer.Stop();
+            GameEnded?.Invoke();
+        }
+
+        public void Dispose()
+        {
+            Dispose(true);
+            GC.SuppressFinalize(this);
+        }
+
+        protected virtual void Dispose(bool disposing)
+        {
+            if (_disposed) return;
+
+            if (disposing)
+            {
+                _timer?.Stop();
+                _timer?.Dispose();
+            }
+            _disposed = true;
+        }
     }
 }

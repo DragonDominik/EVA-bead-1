@@ -9,7 +9,7 @@ using System.Linq;
 namespace EscaperTest
 {
     [TestClass]
-    public class EscaperModelTests
+    public class EscaperModelTests : IDisposable
     {
         private Board _board = null!;
         private GameController _controller = null!;
@@ -18,14 +18,11 @@ namespace EscaperTest
         [TestInitialize]
         public void Setup()
         {
-            int size = 11; // 11x11-es pálya
+            int size = 11;
             _board = new Board(size);
-
-            // középre egy akna
             _board.Mines.Add(new Mine(new Position(size / 2, size / 2)));
 
             _controller = new GameController(_board);
-
             _persistence = new Persistence();
         }
 
@@ -183,6 +180,12 @@ namespace EscaperTest
                 if (File.Exists(tempFile))
                     File.Delete(tempFile);
             }
+        }
+
+        public void Dispose()
+        {
+            _controller?.Dispose();
+            GC.SuppressFinalize(this);
         }
     }
 }
